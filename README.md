@@ -24,6 +24,6 @@ The report is available [here](Report.pdf).
 
 ## Authors
 
-##### [Margarida Martins](https://github.com/margaridasmartins)
+[Margarida Martins](https://github.com/margaridasmartins)
 
-##### [Gonçalo Matos](https://github.com/gmatosferreira)
+[Gonçalo Matos](https://github.com/gmatosferreira)
