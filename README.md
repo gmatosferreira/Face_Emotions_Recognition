@@ -19,3 +19,11 @@ The code for this project was developed in Python, with the libraries [Keras](ht
 ### Report
 
 The report is available [here](Report.pdf).
+
+
+
+## Authors
+
+##### [Margarida Martins](https://github.com/margaridasmartins)
+
+##### [Gonçalo Matos](https://github.com/gmatosferreira)
