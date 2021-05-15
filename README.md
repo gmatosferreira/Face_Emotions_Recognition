@@ -1,6 +1,6 @@
 # Face emotions recognition
 
-This project was developed in the context of [Machine Learning Topics](https://www.ua.pt/en/uc/12832) curricular unit, part of the Computer Science Bachelor at [Aveiro University](https://www.ua.pt/). It was lectured by [Pétia Georgieva Georgieva](https://www.ua.pt/en/p/10321408).
+This project was developed in the context of [Machine Learning Topics](https://www.ua.pt/en/uc/12832) curricular unit, part of the Computer Science Bachelor at [Aveiro University](https://www.ua.pt/). It was lectured by [Pétia Georgieva Georgieva](https://www.ua.pt/en/p/10321408) during 2020/2021 school year.
 
 
 
@@ -16,7 +16,7 @@ The code for this project was developed in Python, with the libraries [Keras](ht
 
 
 
-### Report
+## Report
 
 The report is available [here](Report.pdf).
 
